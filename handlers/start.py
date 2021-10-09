@@ -29,7 +29,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.mention} 😉️!</b>
 
-I'm The Nexa Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat 😇!
+I'm The AD Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat 😇!
 
 Also I have more features! Please hit on **/help** to see them 😘!
 
@@ -43,12 +43,12 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "👮‍♂️ Help Menu 👮‍♂️", callback_data="cbhelpmenu"
+                        "🤔 Need Help 🤔", callback_data="cbhelpmenu"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "📦 Source Code 📦", url="https://github.com/Itz-fork/Callsmusic-Plus"
+                        "📦 Source Code 📦", url="https://telegra.ph/file/fc64a09b6f6c70afe8e91.png"
                     )
                 ],
                 [
@@ -56,7 +56,7 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                         "🔰️ My Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/joinchat/HjOmDe_9kbw4YTll"
                     )
                 ]
             ]
@@ -137,7 +137,7 @@ __Note!__ ⚠️: This Project Is <b>Not Fully Owned By Me</b> !
 
 Credits To,
 
-<b><a href="https://github.com/CallsMusic">CallsMusic</a></b> - For Callsmusic (Main Code ❤️) !
+<b><a href="https://t.me/ADUrluploaderBot">My Bot</a></b> - For AD Music (Main Code ❤️) !
 <b>Mr Dark Prince</b>
 <b>TheHamkercat</b>
 <b>AbirHasan2005</b>
@@ -155,7 +155,7 @@ Made with ❤️ by **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/joinchat/HjOmDe_9kbw4YTll"
                     )
                 ]
             ]
@@ -200,7 +200,7 @@ Enjoy 😌️❤️!""",
                         "🔰️ Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/joinchat/HjOmDe_9kbw4YTll"
                     )
                 ]
             ]
